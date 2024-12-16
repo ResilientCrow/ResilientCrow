@@ -1,16 +1,31 @@
-## Hi there 👋
+## About Me:
+- Passionate native Android developer (Kotlin, Jetpack Compose, Gradle)
+- Student of cybersecurity and expierenced Linux user
+- I have basic knowledge of C, C#, HTML and CSS
+</br>
 
-<!--
-**ResilientCrow/ResilientCrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack:
 
-Here are some ideas to get you started:
+### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://go-skill-icons.vercel.app/api/icons?i=kotlin,c,cs,markdown,html,css&perline=7)
+</br></br>
+![](https://github-readme-stats-crowthedev.vercel.app/api/top-langs/?username=ResilientCrow&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</br></br>
+
+### Tools
+  
+![](https://go-skill-icons.vercel.app/api/icons?i=jetpackcompose,gradle,git,docker,androidstudio,neovim,figma&perline=7)
+
+### OS
+![](https://go-skill-icons.vercel.app/api/icons?i=linux,arch,android)
+</br></br>
+
+## GitHub Stats:
+![](https://github-readme-stats-crowthedev.vercel.app/api?username=ResilientCrow&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ResilientCrow&theme=blue-green&hide_border=false)<br/>
+
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=ResilientCrow&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+
+### GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ResilientCrow&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
