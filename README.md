@@ -1,6 +1,6 @@
 ## About Me:
 - Passionate native Android developer (Kotlin, Jetpack Compose, Gradle)
-- Student of cybersecurity and expierenced Linux user
+- IT student and expierenced Linux user
 - I have basic knowledge of C, C#, HTML and CSS
 </br>
 
